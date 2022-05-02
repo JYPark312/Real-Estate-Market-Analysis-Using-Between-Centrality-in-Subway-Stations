@@ -32,6 +32,9 @@
 
 ![image](https://user-images.githubusercontent.com/70933580/166194777-c9ecc788-29c1-4fc1-b74c-7c03226a9071.png)
 
+### visualization(netdraw)
+![image](https://user-images.githubusercontent.com/70933580/166198667-e520d4a5-af7c-4855-8692-22380bb9e59a.png)
+
 ### Degree & centrality
 - Degree가 높고 centrality가 높은 역은 분석 대상에서 제외
 - Degree는 높지 않지만 between centrality가 높은 역 선정(degree: 2, 3/ between centrality top 30)
