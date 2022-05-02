@@ -46,47 +46,42 @@
 
 ### 시세 비교
 - 왕십리역(degree top 1, between centrality top 1)
-
-![image](https://user-images.githubusercontent.com/70933580/166195759-ab678ab3-cfb9-4bef-bb6a-18b2c91803af.png)
- 
   - 지하철 역과 가까울 수록 가격이 비싸짐
   - 18m^2 기준 1000/50, 관리비 5만원 이상의 가격대
 
-- 구로역 
+![image](https://user-images.githubusercontent.com/70933580/166195759-ab678ab3-cfb9-4bef-bb6a-18b2c91803af.png)
 
-![image](https://user-images.githubusercontent.com/70933580/166196249-d580dd7e-45bf-4f0a-bbb0-ddb417ba767c.png)
-  
+- 구로역 
   - 31m^2 기준 500/50, 관리비 5만원 이상
   - 신도림역(1호선)과 가까움
   - 과거 치안에 대한 부정적인 인식이 있었음
   - 영등포, 디지털 단지 직장인이 고려하면 좋을 위치
 
-- 대방역
+![image](https://user-images.githubusercontent.com/70933580/166196249-d580dd7e-45bf-4f0a-bbb0-ddb417ba767c.png)
 
-![image](https://user-images.githubusercontent.com/70933580/166196768-2e7df854-0f72-4a06-b73e-209fb09a1bc5.png)
-  
+- 대방역
   - 19m^2 기준 500/50, 관리비 5만원 이상
   - 신길역, 노량진역과 가까움
   - 1,5,9호선을 쉽게 이용할 수 있음
   - 여의도, 강남 30분 안으로 접근 가능
 
+![image](https://user-images.githubusercontent.com/70933580/166196768-2e7df854-0f72-4a06-b73e-209fb09a1bc5.png)
+
 - 광운대역
-
-![image](https://user-images.githubusercontent.com/70933580/166196896-042dc399-059e-43e3-ae8a-0f5b07aa6236.png)
-
   - 30m^2 기준 500/45, 관리비 5만원 이상
   - 석계역, 상봉과 가까움
   - 학교 앞에 비해 비교적 값싼 원룸
   - 신축 건불 보다는 오래된 건물이 많음
 
-- 서빙고역
+![image](https://user-images.githubusercontent.com/70933580/166196896-042dc399-059e-43e3-ae8a-0f5b07aa6236.png)
 
-![image](https://user-images.githubusercontent.com/70933580/166197214-cb2b197b-4c00-4df4-9eb5-1992551ad76c.png)
-  
+- 서빙고역
   - 19m^2 기준 500/50 관리비 1만원 이상
   - 이촌과 옥수역이 가까움
   - 한강이 가까움
   - 직장이나 학교 위치에 따라 고려해볼만 함
+
+![image](https://user-images.githubusercontent.com/70933580/166197214-cb2b197b-4c00-4df4-9eb5-1992551ad76c.png)
 
 ## 결과
 ### 결론 
@@ -97,5 +92,6 @@
 
 ### 한계
 - 경기도권까지 고려한다면 결과가 바뀔 수 있음
-- 부동산 시에의 다른 요소들을 고려하지 못함
+- 부동산 시세에 미치는 다른 요소들을 고려하지 못함
+- 역들간의 거리와 같은 요소들을 네트워크에서 고려하지 못함
 
